@@ -11,8 +11,8 @@ table, th, td {
 -----------------
 
 # pandas: powerful Python data analysis toolkit
-
-<table  bgcolor="#cccccc">
+<div bgcolor="#cccccc">
+<table  >
 <tr>
   <td>Latest Release</td>
   <td>
@@ -85,7 +85,7 @@ table, th, td {
 	</td>
 </tr>
 </table>
-
+</div>
 
 
 ## What is it?
