@@ -3,7 +3,7 @@
 </div>
 
 -----------------
-<div align="center">
+<div style="text-align:center">
 # pandas: powerful Python data analysis toolkit
 
 <table>
