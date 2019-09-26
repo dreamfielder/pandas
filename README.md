@@ -1,11 +1,9 @@
-(setq markdown-xhtml-header-content
-      "
-  <style>
-table, th, td {
-  background: white;
-}
-</style>    
-      ")
+---
+title: Habits
+author: John Doe
+date: March 22, 2005
+output: html_document
+---
 
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
