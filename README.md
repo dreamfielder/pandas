@@ -1,3 +1,12 @@
+#nextsteps {
+   color: blue;
+}
+
+.emphasized {
+   font-size: 1.2em;
+}
+
+
 ---
 title: "Habits"
 output:
