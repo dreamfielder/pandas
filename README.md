@@ -1,8 +1,9 @@
 ---
-title: Habits
-author: John Doe
-date: March 22, 2005
-output: html_document
+title: "Habits"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
 ---
 
 <div style="text-align:center">
