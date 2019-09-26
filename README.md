@@ -1,4 +1,10 @@
-## Quarterly Results {.tabset .tabset-fade .tabset-pills}
+---
+title: "Habits"
+output:
+  html_document:
+    theme: united
+    highlight: tango
+---
 
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
