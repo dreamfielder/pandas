@@ -1,3 +1,9 @@
+<style>
+table, th, td {
+  background: white;
+}
+</style>
+
 <div align="center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
 </div>
@@ -5,11 +11,7 @@
 -----------------
 
 # pandas: powerful Python data analysis toolkit
-<style>
-table, th, td {
-  background: white;
-}
-</style>
+
 <table>
 <tr>
   <td>Latest Release</td>
