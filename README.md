@@ -1,3 +1,6 @@
+
+<span style="background-color: #D3D3D3"><font size=4 color=#DC143C>默认字体，猩红色，4号，浅灰色填充</font></span>
+
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
 </div>
