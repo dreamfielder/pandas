@@ -1,19 +1,4 @@
-#nextsteps {
-   color: blue;
-}
-
-.emphasized {
-   font-size: 1.2em;
-}
-
-
----
-title: "Habits"
-output:
-  html_document:
-    css: styles.css
----
-
+<body style="background: red;">abcd</body>
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
 </div>
