@@ -3,9 +3,8 @@ title: "Habits"
 output:
   html_document:
     toc: true
-    toc_depth: 2
+    toc_float: true
 ---
-
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
 </div>
