@@ -1,12 +1,4 @@
-## Quarterly Results {.tabset}
-
-### By Product
-
-(tab content)
-
-### By Region
-
-(tab content)
+## Quarterly Results {.tabset .tabset-fade .tabset-pills}
 
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
