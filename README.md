@@ -1,9 +1,11 @@
 (setq markdown-xhtml-header-content
-      "(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>")")
+      "
+  <style>
+table, th, td {
+  background: white;
+}
+</style>    
+      ")
 
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
