@@ -5,7 +5,11 @@
 -----------------
 
 # pandas: powerful Python data analysis toolkit
-
+<style>
+table, th, td {
+  background: white;
+}
+</style>
 <table>
 <tr>
   <td>Latest Release</td>
