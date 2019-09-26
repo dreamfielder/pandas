@@ -11,7 +11,7 @@ table, th, td {
 -----------------
 
 # pandas: powerful Python data analysis toolkit
-<div bgcolor="#cccccc">
+<div align="center">
 <table  >
 <tr>
   <td>Latest Release</td>
