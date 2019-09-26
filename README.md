@@ -1,4 +1,4 @@
-<body style="background: red;">abcd</body>
+<body style="background: red;">abcd
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
 </div>
@@ -237,3 +237,4 @@ Or maybe through using pandas you have an idea of your own or are looking for so
 Feel free to ask questions on the [mailing list](https://groups.google.com/forum/?fromgroups#!forum/pydata) or on [Gitter](https://gitter.im/pydata/pandas).
 
 As contributors and maintainers to this project, you are expected to abide by pandas' code of conduct. More information can be found at: [Contributor Code of Conduct](https://github.com/pandas-dev/pandas/blob/master/.github/CODE_OF_CONDUCT.md)
+</body>
