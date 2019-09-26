@@ -5,8 +5,7 @@
 -----------------
 <div align="center">
 # pandas: powerful Python data analysis toolkit
-</div>	
-<div align="center">
+
 <table>
 <tr>
   <td>Latest Release</td>
