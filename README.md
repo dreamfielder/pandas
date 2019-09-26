@@ -15,7 +15,7 @@ table, th, td {
 <div style="text-align:center">
 # pandas: powerful Python data analysis toolkit
 
-<table>
+<table style="background: red;">
 <tr>
   <td>Latest Release</td>
   <td>
