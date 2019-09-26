@@ -2,8 +2,7 @@
 title: "Habits"
 output:
   html_document:
-    theme: united
-    highlight: tango
+    css: styles.css
 ---
 
 <div style="text-align:center">
