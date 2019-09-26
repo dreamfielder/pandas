@@ -1,4 +1,9 @@
-<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css"rel="stylesheet"></link>
+(setq markdown-xhtml-header-content
+      "(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")")
 
 <div style="text-align:center">
   <img src="https://github.com/pandas-dev/pandas/blob/master/doc/logo/pandas_logo.png"><br>
