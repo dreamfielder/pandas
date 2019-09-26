@@ -12,7 +12,7 @@ table, th, td {
 
 # pandas: powerful Python data analysis toolkit
 
-<table>
+<table style="width:10%">
 <tr>
   <td>Latest Release</td>
   <td>
